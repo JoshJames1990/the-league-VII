@@ -1,0 +1,49 @@
+header{
+	color: white;
+	font-size: 50px;
+	margin: 0;
+	padding-top: 20px;
+	text-align: center;
+}
+
+body{
+	background-image: url(../img/nfl-background.jpeg);
+	background-size: 100%, 100%;
+}
+
+h1, h2{
+	font-family: 'Cinzel', serif;
+	margin: 0;
+}
+
+a{
+	color: white;
+}
+
+a:hover{
+	color: yellow;	
+}
+
+main h2{
+	font-size: 40px;
+	margin-top: 40px;
+	color: white;
+}
+
+div.section{
+	margin: 0;
+	font-size: 20px;
+	color: white;
+	font-family: 'Cinzel', serif;
+	line-height: 30px;
+}
+
+footer{
+	margin-top: 300px;
+}
+
+footer p{
+	color: white;
+	font-size: 20px;
+	text-align: center;
+}
