@@ -1,9 +1,8 @@
 h1{
-	font-size: 40px;
 	color: white;
 	text-align: center;
-
 }
+
 h2{
 	color: white;
 }
@@ -11,9 +10,4 @@ h2{
 body{
 	background-image: url(../img/nfl-background.jpeg);
 	background-size: 100%, 100%;
-}
-
-p{
-	margin-top: 0;
-	color: white;
 }
